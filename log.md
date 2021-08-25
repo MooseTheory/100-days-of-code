@@ -23,3 +23,12 @@
 **Thoughts**: So many edge cases! Plus, it looks like poop, I wanna make the output prettier.
 
 **Link to work**: https://github.com/MooseTheory/dumbot/commit/ee73351be05b47a6152a9a60abdcd6a962d23cea
+
+### Day 4: 24 August 2021
+
+**Today's Progress**: Made the embeds look a bit fancier, I need to create some mock data for testing what they look like though...
+
+**Thoughts**: I really wish the Reddit API I am using for go had actual documentation, it just links to Reddit's API, which is less than helpful.
+Maybe I'm on the wrong page, but Reddit's API doesn't make figuring out what the returned data looks like very easy...
+
+**Link to work**: https://github.com/MooseTheory/dumbot/commit/33c11d6499fadf8e7632fab830cc137c590a74bb
