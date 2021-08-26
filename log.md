@@ -32,3 +32,11 @@
 Maybe I'm on the wrong page, but Reddit's API doesn't make figuring out what the returned data looks like very easy...
 
 **Link to work**: https://github.com/MooseTheory/dumbot/commit/33c11d6499fadf8e7632fab830cc137c590a74bb
+
+### Day 5: 25 August 2021
+
+**Today's Progress**: Might not have a full hour today, but converted it to use the "current" maintenance endpoint.
+
+**Thoughts**: I need to create some kind of automated build thing for this. I can live without automated deploy for now, but builds would be handy.
+
+**Link to work**: https://github.com/MooseTheory/dumbot/commit/470e611658d19114054f7ce634a0149dbcba5ca6
