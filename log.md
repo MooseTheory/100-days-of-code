@@ -40,3 +40,12 @@ Maybe I'm on the wrong page, but Reddit's API doesn't make figuring out what the
 **Thoughts**: I need to create some kind of automated build thing for this. I can live without automated deploy for now, but builds would be handy.
 
 **Link to work**: https://github.com/MooseTheory/dumbot/commit/470e611658d19114054f7ce634a0149dbcba5ca6
+
+### Day 6: 26 August 2021
+
+**Today's Progress**: Started a react project to make sure I can do a thing on Tuesday.
+
+**Thoughts**: Documentation for starting a typescript project with react is a bit lacking, but I think I've got it sorted. Also, can I help VSCode's import import Material Icon's easier?
+Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 2 raid those nights, and that doesn't leave much time for work+dinner+code. I'll accept it as something I have failed at.
+
+**Link to work**: None for today, there's nothing to commit.
