@@ -49,3 +49,19 @@ Maybe I'm on the wrong page, but Reddit's API doesn't make figuring out what the
 Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 2 raid those nights, and that doesn't leave much time for work+dinner+code. I'll accept it as something I have failed at.
 
 **Link to work**: None for today, there's nothing to commit.
+
+### Day 7 28 August 2021
+
+**Today's Progress**: Put together some golang to prep for an interview Tuesday
+
+**Thoughts**: Interacting with SQL without an ORM is simulatneously better, because I feel like I write far less boilerplate, but it's also quite a lot more wrangling to bind parameters and such.
+
+**Link to work**: No link for this
+
+### Day 8 29 August 2021
+
+**Today's Progress**: Put together the React and Redux UI stuff to prep for the Tuesday interview
+
+**Thoughts**: I'm terrified I've overprepared and they'll be upset, but I'm also terrified of potentially underpreparing. Wee
+
+**Link to work**: No link for today either
