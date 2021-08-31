@@ -65,3 +65,11 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 **Thoughts**: I'm terrified I've overprepared and they'll be upset, but I'm also terrified of potentially underpreparing. Wee
 
 **Link to work**: No link for today either
+
+### Day 9 30 August 2021
+
+**Today's Progress**: API-ified my Lodestone News API calls a bit. Nut technically a full API, but a bit more APIish?
+
+**Thoughts**: Not sure what the "best" way to make something like an API thing in golang is, but I figure this looks like a start? I need to move it to its own package though.
+
+**Link to work**: https://github.com/MooseTheory/dumbot
