@@ -68,8 +68,16 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 
 ### Day 9 30 August 2021
 
-**Today's Progress**: API-ified my Lodestone News API calls a bit. Nut technically a full API, but a bit more APIish?
+**Today's Progress**: API-ified my Lodestone News API calls a bit. Not technically a full API, but a bit more APIish?
 
 **Thoughts**: Not sure what the "best" way to make something like an API thing in golang is, but I figure this looks like a start? I need to move it to its own package though.
 
 **Link to work**: https://github.com/MooseTheory/dumbot
+
+### Day 10 31 August 2021
+
+**Today's Progress**: Moved the Lodestone News stuff to its own module now. Debating if I should consider something similar with the command router for discord or not... Neither are elaborate...
+
+**Thoughts**: I may need to find a new project soon, I'm starting to run out of features people have expressed an interest in.
+
+**Link to work**: https://github.com/MooseTheory/dumbot/commit/8c44e64a9c0afb8e5ac38d84d8f58c7bf891a041 and https://github.com/MooseTheory/lodestonenews/commit/7836e5b7bae932254656ea2cd202294cb7fa9ee5
