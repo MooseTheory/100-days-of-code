@@ -50,7 +50,7 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 
 **Link to work**: None for today, there's nothing to commit.
 
-### Day 7 28 August 2021
+### Day 7: 28 August 2021
 
 **Today's Progress**: Put together some golang to prep for an interview Tuesday
 
@@ -58,7 +58,7 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 
 **Link to work**: No link for this
 
-### Day 8 29 August 2021
+### Day 8: 29 August 2021
 
 **Today's Progress**: Put together the React and Redux UI stuff to prep for the Tuesday interview
 
@@ -66,7 +66,7 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 
 **Link to work**: No link for today either
 
-### Day 9 30 August 2021
+### Day 9: 30 August 2021
 
 **Today's Progress**: API-ified my Lodestone News API calls a bit. Not technically a full API, but a bit more APIish?
 
@@ -74,10 +74,18 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 
 **Link to work**: https://github.com/MooseTheory/dumbot
 
-### Day 10 31 August 2021
+### Day 10: 31 August 2021
 
 **Today's Progress**: Moved the Lodestone News stuff to its own module now. Debating if I should consider something similar with the command router for discord or not... Neither are elaborate...
 
 **Thoughts**: I may need to find a new project soon, I'm starting to run out of features people have expressed an interest in.
 
 **Link to work**: https://github.com/MooseTheory/dumbot/commit/8c44e64a9c0afb8e5ac38d84d8f58c7bf891a041 and https://github.com/MooseTheory/lodestonenews/commit/7836e5b7bae932254656ea2cd202294cb7fa9ee5
+
+### Day 11: 01 September 2021
+
+**Today's Progress**: Didn't get a full hour in today, was at the office too late.
+
+**Thoughts**: Bootstraping a react app is more complex than I would like.
+
+**Link to work**: N/A
