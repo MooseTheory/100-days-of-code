@@ -89,3 +89,11 @@ Missed Thursday, that's probably going to kinda be a thing, as I have a Destiny 
 **Thoughts**: Bootstraping a react app is more complex than I would like.
 
 **Link to work**: N/A
+
+### Day 12: 04 September 2021
+
+**Today's Progress**: Didn't get much actual code written, mostly spent my time learning about how Discord's slash commands work
+
+**Thoughts**: Did I miss three days, or did I forget to push this from my other machine? I don't know!
+
+**Link to work**: N/A
